@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a54fb814-cdfd-4261-ae9d-a3aaeddfb5c4" name="Changes" comment="Intermediate arrays">
-      <change afterPath="$PROJECT_DIR$/main/src/SampleProblems/SquarerootOfNumber.java" afterDir="false" />
+    <list default="true" id="a54fb814-cdfd-4261-ae9d-a3aaeddfb5c4" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
+      <change afterPath="$PROJECT_DIR$/main/src/SampleProblems/ArmstrongNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,20 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.SquarerootOfNumber">
+  <component name="RunManager" selected="Application.ArmstrongNumbers">
+    <configuration name="ArmstrongNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SampleProblems.ArmstrongNumbers" />
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SampleProblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IsItPerfect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SampleProblems.IsItPerfect" />
       <module name="src" />
@@ -97,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArmstrongNumbers" />
         <item itemvalue="Application.SquarerootOfNumber" />
         <item itemvalue="Application.SummationGame" />
         <item itemvalue="Application.IsItPerfect" />
@@ -141,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678717619348</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1678727738587</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678727738587</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +178,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Intermediate arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Intermediate arrays" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
   </component>
 </project>
